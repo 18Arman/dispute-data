@@ -1,0 +1,70 @@
+[
+  {
+    "ok": true,
+    "transaction_id": "TXN-2B77E9",
+    "customer_id": "CUST-B202",
+    "type": "MERCHANT_PAYMENT",
+    "merchant": "Green Basket Mart",
+    "amount": 389.9,
+    "currency": "INR",
+    "status": "SUCCESS",
+    "age_hours": 10
+  },
+  {
+    "ok": true,
+    "transaction_id": "TXN-3E58B6",
+    "customer_id": "CUST-A101",
+    "type": "MOBILE_RECHARGE",
+    "merchant": "Prepaid Topup",
+    "amount": 299.0,
+    "currency": "INR",
+    "status": "REVERSED",
+    "age_hours": 30,
+    "reversal_id": "REV-SEED01"
+  },
+
+  {
+    "ok": true,
+    "transaction_id": "TXN-5C90D7",
+    "customer_id": "CUST-D404",
+    "type": "MONEY_TRANSFER",
+    "merchant": "Peer Transfer",
+    "amount": 18450.0,
+    "currency": "INR",
+    "status": "FAILED_DEBITED",
+    "age_hours": 20
+  },
+  {
+    "ok": true,
+    "transaction_id": "TXN-7A06F4",
+    "customer_id": "CUST-B202",
+    "type": "MOBILE_RECHARGE",
+    "merchant": "Prepaid Topup",
+    "amount": 149.0,
+    "currency": "INR",
+    "status": "FAILED_DEBITED",
+    "age_hours": 3
+  },
+  {
+    "ok": true,
+    "transaction_id": "TXN-8F31A2",
+    "customer_id": "CUST-A101",
+    "type": "BILL_PAYMENT",
+    "merchant": "Metro Power Co",
+    "amount": 1247.35,
+    "currency": "INR",
+    "status": "FAILED_DEBITED",
+    "age_hours": 6
+  },
+  {
+    "ok": true,
+    "transaction_id": "TXN-9D14C3",
+    "customer_id": "CUST-E505",
+    "type": "BILL_PAYMENT",
+    "merchant": "City Water Board",
+    "amount": 862.15,
+    "currency": "INR",
+    "status": "FAILED_DEBITED",
+    "age_hours": 130
+  }
+]
