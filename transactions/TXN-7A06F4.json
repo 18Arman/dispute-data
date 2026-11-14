@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "transaction_id": "TXN-7A06F4",
+  "customer_id": "CUST-B202",
+  "type": "MOBILE_RECHARGE",
+  "merchant": "Prepaid Topup",
+  "amount": 149.0,
+  "currency": "INR",
+  "status": "FAILED_DEBITED",
+  "age_hours": 3
+}

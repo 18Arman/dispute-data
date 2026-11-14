@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "transaction_id": "TXN-2B77E9",
+  "customer_id": "CUST-B202",
+  "type": "MERCHANT_PAYMENT",
+  "merchant": "Green Basket Mart",
+  "amount": 389.9,
+  "currency": "INR",
+  "status": "SUCCESS",
+  "age_hours": 10
+}

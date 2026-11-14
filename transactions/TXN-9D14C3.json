@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "transaction_id": "TXN-9D14C3",
+  "customer_id": "CUST-E505",
+  "type": "BILL_PAYMENT",
+  "merchant": "City Water Board",
+  "amount": 862.15,
+  "currency": "INR",
+  "status": "FAILED_DEBITED",
+  "age_hours": 130
+}

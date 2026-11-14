@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "transaction_id": "TXN-8F31A2",
+  "customer_id": "CUST-A101",
+  "type": "BILL_PAYMENT",
+  "merchant": "Metro Power Co",
+  "amount": 1247.35,
+  "currency": "INR",
+  "status": "FAILED_DEBITED",
+  "age_hours": 6
+}

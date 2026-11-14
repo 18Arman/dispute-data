@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "transaction_id": "TXN-3E58B6",
+  "customer_id": "CUST-A101",
+  "type": "MOBILE_RECHARGE",
+  "merchant": "Prepaid Topup",
+  "amount": 299.0,
+  "currency": "INR",
+  "status": "REVERSED",
+  "age_hours": 30,
+  "reversal_id": "REV-SEED01"
+}

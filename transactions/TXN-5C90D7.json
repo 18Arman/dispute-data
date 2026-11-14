@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "transaction_id": "TXN-5C90D7",
+  "customer_id": "CUST-D404",
+  "type": "MONEY_TRANSFER",
+  "merchant": "Peer Transfer",
+  "amount": 18450.0,
+  "currency": "INR",
+  "status": "FAILED_DEBITED",
+  "age_hours": 20
+}
