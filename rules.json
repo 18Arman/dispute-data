@@ -1,0 +1,14 @@
+{
+  "policy": "Dispute reversal policy",
+  "reversal_window_hours": 72,
+  "auto_reversal_limit_inr": 5000.0,
+  "rules": [
+    "Only transactions with status FAILED_DEBITED can be disputed",
+    "Transaction must belong to the customer raising the dispute",
+    "Age must be 72 hours or less",
+    "Amount up to 5000.00: AUTO_REVERSE",
+    "Amount above 5000.00: NEEDS_APPROVAL by a human",
+    "Status REVERSED: ALREADY_REVERSED, do nothing",
+    "Status SUCCESS: NOT_ELIGIBLE"
+  ]
+}
