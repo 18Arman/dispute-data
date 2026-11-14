@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "customer_id": "CUST-A101",
+  "name": "Test Customer Alpha",
+  "segment": "HIGH_VALUE",
+  "wallet_balance": 8420.55,
+  "preferred_channel": "SMS",
+  "kyc_status": "VERIFIED"
+}

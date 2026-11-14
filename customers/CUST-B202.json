@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "customer_id": "CUST-B202",
+  "name": "Test Customer Bravo",
+  "segment": "STANDARD",
+  "wallet_balance": 312.1,
+  "preferred_channel": "WHATSAPP",
+  "kyc_status": "VERIFIED"
+}

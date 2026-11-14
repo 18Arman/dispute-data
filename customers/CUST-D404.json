@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "customer_id": "CUST-D404",
+  "name": "Test Customer Delta",
+  "segment": "HIGH_VALUE",
+  "wallet_balance": 21990.0,
+  "preferred_channel": "APP",
+  "kyc_status": "VERIFIED"
+}

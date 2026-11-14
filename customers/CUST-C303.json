@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "customer_id": "CUST-C303",
+  "name": "Test Customer Charlie",
+  "segment": "STANDARD",
+  "wallet_balance": 55.0,
+  "preferred_channel": "SMS",
+  "kyc_status": "PENDING"
+}

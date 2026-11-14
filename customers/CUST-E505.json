@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "customer_id": "CUST-E505",
+  "name": "Test Customer Echo",
+  "segment": "STANDARD",
+  "wallet_balance": 740.8,
+  "preferred_channel": "SMS",
+  "kyc_status": "VERIFIED"
+}
