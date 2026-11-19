@@ -2,7 +2,7 @@
   {
     "ok": true,
     "customer_id": "CUST-A101",
-    "name": "Test Customer Alpha",
+    "name": "Alpha",
     "segment": "HIGH_VALUE",
     "wallet_balance": 8420.55,
     "preferred_channel": "SMS",
@@ -11,7 +11,7 @@
   {
     "ok": true,
     "customer_id": "CUST-B202",
-    "name": "Test Customer Bravo",
+    "name": "Bravo",
     "segment": "STANDARD",
     "wallet_balance": 312.1,
     "preferred_channel": "WHATSAPP",
@@ -20,7 +20,7 @@
   {
     "ok": true,
     "customer_id": "CUST-C303",
-    "name": "Test Customer Charlie",
+    "name": "Charlie",
     "segment": "STANDARD",
     "wallet_balance": 55.0,
     "preferred_channel": "SMS",
@@ -29,7 +29,7 @@
   {
     "ok": true,
     "customer_id": "CUST-D404",
-    "name": "Test Customer Delta",
+    "name": "Delta",
     "segment": "HIGH_VALUE",
     "wallet_balance": 21990.0,
     "preferred_channel": "APP",
@@ -38,7 +38,7 @@
   {
     "ok": true,
     "customer_id": "CUST-E505",
-    "name": "Test Customer Echo",
+    "name": "Echo",
     "segment": "STANDARD",
     "wallet_balance": 740.8,
     "preferred_channel": "SMS",
