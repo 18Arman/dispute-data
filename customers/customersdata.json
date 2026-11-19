@@ -43,5 +43,16 @@
     "wallet_balance": 740.8,
     "preferred_channel": "SMS",
     "kyc_status": "VERIFIED"
+  },
+   {
+    "ok": true,
+    "transaction_id": "TXN-4D21A8",
+    "customer_id": "CUST-B202",
+    "type": "MERCHANT_PAYMENT",
+    "merchant": "Fresh Mart",
+    "amount": 520.0,
+    "currency": "INR",
+    "status": "FAILED_DEBITED",
+    "age_hours": 12
   }
 ]
